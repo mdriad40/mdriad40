@@ -1,7 +1,7 @@
+![I am a Web and Mobile App developer.](https://github.com/mdriad40/mdriad40/blob/main/Github_Banner.jpg?raw=true)
+
 ### Hi there 👋, I'm Riad Hasaan.
 #### I am a Web and Mobile App developer.
-![I am a Web and Mobile App developer.](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
-
 I’m a front-end web and mobile application developer. Right now, I build websites using HTML, CSS, and JavaScript, and I’m slowly starting to learn React. For mobile apps, I mostly use Flutter with the help of AI tools. I’m still in the learning phase and try to improve my skills every day. I enjoy creating user-friendly designs and simple, clean interfaces. My goal is to grow by working on real projects and becoming better step by step.
 
 Skills: HTML / CSS / JS  / REACT
