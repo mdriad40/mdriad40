@@ -7,6 +7,20 @@
 I’m a front-end web and mobile application developer. Right now, I build websites using HTML, CSS, and JavaScript, and I’m slowly starting to learn React. For mobile apps, I mostly use Flutter with the help of AI tools. I’m still in the learning phase and try to improve my skills every day. I enjoy creating user-friendly designs and simple, clean interfaces. My goal is to grow by working on real projects and becoming better step by step.
 
 Skills: HTML / CSS / JS  / REACT
+<!-- HTML -->
+![HTML](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg)
+
+<!-- CSS -->
+![CSS](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg)
+
+<!-- Tailwind CSS -->
+![Tailwind CSS](https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg)
+
+<!-- JavaScript -->
+![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg)
+
+<!-- React -->
+![React](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg)
 
 - 🔭 I’m currently working on Self Development 
 - 🌱 I’m currently learning JS and React 
