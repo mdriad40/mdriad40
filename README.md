@@ -8,19 +8,19 @@ I’m a front-end web and mobile application developer. Right now, I build websi
 
 Skills: HTML / CSS / JS  / REACT
 <!-- HTML -->
-![HTML](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg)
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="50" height="50"/>
 
 <!-- CSS -->
-![CSS](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg)
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="50" height="50"/>
 
 <!-- Tailwind CSS -->
-![Tailwind CSS](https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg)
+<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="50" height="50"/>
 
 <!-- JavaScript -->
-![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg)
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" height="50"/>
 
 <!-- React -->
-![React](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg)
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="50" height="50"/>
 
 - 🔭 I’m currently working on Self Development 
 - 🌱 I’m currently learning JS and React 
