@@ -1,14 +1,15 @@
 ![I am a Web and Mobile App developer.](https://github.com/mdriad40/mdriad40/blob/main/Github_Banner.jpg?raw=true)
 
-### Hi there 👋, I'm Riad Hasaan.
+## Hi there 👋, I'm Riad Hasaan.
 #### I am a Web and Mobile App developer.
-
 
 I’m a front-end web and mobile application developer. Right now, I build websites using HTML, CSS, and JavaScript, and I’m slowly starting to learn React. For mobile apps, I mostly use Flutter with the help of AI tools. I’m still in the learning phase and try to improve my skills every day. I enjoy creating user-friendly designs and simple, clean interfaces. My goal is to grow by working on real projects and becoming better step by step.
 
-Skills: HTML / CSS / JS  / REACT
+### Skills: HTML / CSS / JS  / REACT
+## What i use?
 <!-- HTML -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="50" height="50"/> <!-- CSS --> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="50" height="50"/> <!-- Tailwind CSS --> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="50" height="50"/> <!-- JavaScript --> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" height="50"/> <!-- React --> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="50" height="50"/> <!-- CSS --> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="50" height="50"/> <!-- Tailwind CSS --> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="50" height="50"/> <!-- JavaScript --> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" height="50"/> <!-- React --> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="50" height="50"/> <!-- Flutter --> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="50" height="50"/> <!-- VS Code --> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="50" height="50"/> <!-- Cursor Code Editor (custom PNG, as official vector not widely available) --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/code/code-original.svg" width="50" height="50"/> <!-- Android Studio --> <img src="https://developer.android.com/static/studio/images/new-studio-logo-1_1920.png" width="50" height="50"/> <!-- Markdown --> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg" width="50" height="50"/>
+
 - 🔭 I’m currently working on Self Development 
 - 🌱 I’m currently learning JS and React 
 - 💬 Ask me about Web Development 
